@@ -1,1 +1,1 @@
-# Mern Stack Open Source!
+# Mern Stack Open Source
